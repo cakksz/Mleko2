@@ -1,0 +1,65 @@
+/*
+    font-family: arial, tahoma, sans-serif;
+    font-size: 12pt;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.05em;
+*/
+body {
+
+    font: normal normal 12pt/1.05em arial, tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 200%;
+    font-style: normal;
+    font-weight: normal;
+}
+h2 {
+    font-size: 300%;
+    font-style: normal;
+    font-weight: normal;
+}
+.czerwony {
+    color: red;
+}
+
+.pogrubiony {
+    font-weight: bold;
+ }  
+.pochylony {
+    font-style: italic;
+}
+
+.wyróżniony {
+    color:#FF0000#FFFF00#FF00FF#FF00FF#00FFFF#00FFFF;
+    font-weight:bold;
+    font-style: italic;
+}
+.zielony {
+    color:green;
+}
+
+.pogrubiony {
+    font-weight: bold;
+ }  
+.pochylony {
+    font-style: italic;
+}
+
+.wyróżniony {
+    color:red;
+    font-weight:bold;
+    font-style: italic;
+}
+img{
+    float:right
+}
+
+p.srodek {
+    text-align: center;
+    clear: both;
+}
+img{
+    float: right;
+}
