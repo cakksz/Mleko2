@@ -91,7 +91,7 @@ body
 {
 	margin:10px;
 	width:420px;
-	height:142px;
+	height:83px;
 	background-color:#ee5a32;
 	text-align:center;
 	font-size:26px;
@@ -101,10 +101,11 @@ body
 .tile5
 {
 	margin:10px;
-	width:480px;
-	height:304px;
+	width:420px;
+	height:244px;
 	background-color:#444444;
-	text-align:center;
+	text-align:justify;
+	padding:30px;
 }
 
 .tile6
@@ -144,7 +145,7 @@ body
 
 .tile8:hover
 {
-	background-color:#EEEE00;
+	background-color:#EEDD00;
 }
 .tile9
 {
@@ -158,4 +159,13 @@ body
 .tile9:hover
 {
 	background-color:#2084c2;
+}
+
+a.tilelink
+{
+	color:#ffffff;
+	text-decoration:none;
+	display:block;
+	width:230px;
+	height:142px;
 }
