@@ -169,3 +169,13 @@ a.tilelink
 	width:230px;
 	height:142px;
 }
+a.kontaktlink
+{
+	color:#ffffff;
+	text-decoration:none;
+	display:block;
+	width:105px;
+	height:142px;
+}
+
+
