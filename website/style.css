@@ -177,5 +177,12 @@ a.kontaktlink
 	width:105px;
 	height:142px;
 }
-
+a.tilelink2
+{
+	color:#ffffff;
+	text-decoration:none;
+	display:block;
+	width:420px;
+	height:83px;
+}
 
