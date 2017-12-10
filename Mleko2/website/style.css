@@ -1,0 +1,189 @@
+body
+{
+	background-color: #303030;
+	color:#ffffff;
+	font-family: 'Lato', sans-serif;
+	font-size:20px;
+}
+#container
+{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+.rectangle
+{
+	width:1000px;
+	margin:20px;
+	text-align:center;
+}
+
+
+.square
+{
+	width:50%;
+	float:left;
+
+}
+
+#logo
+{
+	float:left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:70px;
+	width:600px;
+	text-align:left;
+}
+
+#zegar
+{
+	float:center;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:70px;
+	text-align:center;
+    padding-top:25px;
+}
+
+
+.tile1
+{
+	margin:10px;
+	width:230px;
+	height:142px;
+	background-color:#09EF0D;
+	float:left;
+	text-align:center;
+}
+
+.tile1:hover
+{
+	background-color:#08DE0C;
+}
+.tile2
+{
+	margin:10px;
+	width:230px;
+	height:142px;
+	background-color:#666666;
+	float:left;
+	text-align:center;
+}
+
+.tile2:hover
+{
+	background-color:#555555;
+}
+.tile3
+{
+	margin:10px;
+	width:230px;
+	height:142px;
+	background-color:#800080;
+	float:left;
+	text-align:center;
+}
+
+.tile3:hover
+{
+	background-color:#700070;
+}
+.tile4
+{
+	margin:10px;
+	width:420px;
+	height:83px;
+	background-color:#ee5a32;
+	text-align:center;
+	font-size:26px;
+	padding:30px;
+}
+
+.tile5
+{
+	margin:10px;
+	width:420px;
+	height:244px;
+	background-color:#444444;
+	text-align:justify;
+	padding:30px;
+}
+
+.tile6
+{
+	margin:10px;
+	width:105px;
+	height:142px;
+	background-color:#d95333;
+	float:left;
+}
+
+.tile6:hover
+{
+	background-color:#c84222;
+}
+.tile7
+{
+	margin:10px;
+	width:105px;
+	height:142px;
+	background-color:#4668b3;
+	float:left;
+}
+
+.tile7:hover
+{
+	background-color:#3557a2;
+}
+.tile8
+{
+	margin:10px;
+	width:105px;
+	height:142px;
+	background-color:#FFFF00;
+	float:left;
+}
+
+.tile8:hover
+{
+	background-color:#EEDD00;
+}
+.tile9
+{
+	margin:10px;
+	width:105px;
+	height:142px;
+	background-color:#3095d3;
+	float:left;
+}
+
+.tile9:hover
+{
+	background-color:#2084c2;
+}
+
+a.tilelink
+{
+	color:#ffffff;
+	text-decoration:none;
+	display:block;
+	width:230px;
+	height:142px;
+}
+a.kontaktlink
+{
+	color:#ffffff;
+	text-decoration:none;
+	display:block;
+	width:105px;
+	height:142px;
+}
+a.tilelink2
+{
+	color:#ffffff;
+	text-decoration:none;
+	display:block;
+	width:420px;
+	height:83px;
+}
+
