@@ -14,7 +14,7 @@ body
 }
 .rectangle
 {
-	width:1600px;
+	width:1000px;
 	margin:20px;
 	text-align:center;
 }
@@ -38,10 +38,11 @@ body
 
 #zegar
 {
-	float:left;
+	float:center;
 	font-family: 'Josefin Sans', sans-serif;
 	font-size:70px;
-	text-align:left;
+	text-align:center;
+    padding-top:25px;
 }
 
 

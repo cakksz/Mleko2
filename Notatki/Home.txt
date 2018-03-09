@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-12T12:20:50+01:00
+
+====== Home ======
+Created piątek 12 styczeń 2018
+$("selektor").akcja(function(){
+działania;
+});
+
+===== Metody =====
+.hide()
+.show()
+.toggle()
+.fadeIn()
+.fadeOut()		
+canvas
+
+====== Klient-serwer ======
+1. DNS - Domain Name System, port 53, zamiana nazw hostów na adresy IP, polecenie : ping.
+2. http- [[HyperText]] Transfer Protocol, komunikacja w zakresie stron WWW, port 
+3. ftp - File Transfer Protocol port 22
+Klient - "komputer" korzystajacy z uslug udostepnianych przez serwer, np. przegladarka WWW albo klient chat
+Protokół - "język" porozumiewania się klienta z serwerem, protokoły definiowane są w dokumentach RFC
+Adres IP, np. publiczny 2221.34.2.10
+Port- liczba naturalna, identyfikujaca usluge na serwerze, well known ports 0-1024 zob. [[/etc/services]]
+
+==== Lokalny Serwer HTTP ====
+python -m [[SimpleHTTPServer]]
+python3 -m http.server
+domyślny zasób: index.html, index.php, index
+Metoda get.
+URI => URL
+http://lo1.sandomierz.pl/szukaj?words=parnas search=
+http:// - protokół
+lo1.sandomierz.pl - (pełnodomenowa) nazwa serwera
+[[/szukaj]] - zasób na serwerze
+? - początel listy parametrów
+words=parnas - parametr w formacie nazwa = wartość
+ - znak służący rozdzielaniu parametrów
+search= 
+5 kategorii urządzeń
+Extra small <567px xs
+Small >=567px sm
+Medium >= 720px md
+Large >= 960px lg
+Extra large >= 1200px xl

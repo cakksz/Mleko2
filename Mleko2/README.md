@@ -1,1 +1,0 @@
-Reopozyritum z moimi kodami

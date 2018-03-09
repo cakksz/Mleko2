@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-02T12:16:21+01:00
+
+====== Klient-Serwer ======
+Created piątek 02 luty 2018
+
