@@ -1,0 +1,9 @@
+﻿body {
+    background-image: url("beauty.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+  .mark, mark {
+    background-color: rgba(25, 238, 20, 0.29);
+  }
